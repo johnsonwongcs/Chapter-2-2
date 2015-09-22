@@ -1,0 +1,8 @@
+div {
+	border-bottom: 2px solid #cccccc;
+	width:750px;
+	padding-bottom: 5px;
+}
+.tableHeading {
+	font-weight: normal;
+}
